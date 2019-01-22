@@ -4,4 +4,6 @@ footer{
     width: 100%;
     position: fixed;
     bottom: 0px;
+    text-align: center;
+    padding: 20px;      /*Alto y Bajo, 20 pixeles*/
 }
